@@ -1,0 +1,5 @@
+npm install framer-motion @headlessui/react @heroicons/react react-icons lucide-react
+npm install next-themes
+npm install clsx
+
+npx shadcn-ui@latest init
